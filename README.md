@@ -8,6 +8,10 @@ This project is still under development and this repository is updated as soon a
 
 ## Integrated Model
 
+To train the integrated model :
+1. Clone this repository into your local machine using
+   
+   
 
 
 
