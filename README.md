@@ -12,7 +12,8 @@ To train the integrated model :
 1. Clone this repository into your local machine using
    ```bash
        git clone https://github.com/mansheelagarwal/StuddyBuddy.git
-2. To train this model for your dataset :
+2. Install the requirements via the requirements_studybuddy.txt file provided
+3. To train this model for your dataset :
    ```python
       from model import CustomModel
 
