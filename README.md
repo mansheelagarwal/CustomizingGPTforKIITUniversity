@@ -10,6 +10,17 @@ This project is still under development and this repository is updated as soon a
 
 To train the integrated model :
 1. Clone this repository into your local machine using
+   ```bash
+       git clone https://github.com/mansheelagarwal/StuddyBuddy.git
+2. To train this model for your dataset :
+   ```python
+      from model import CustomModel
+
+      # Instantiate the CustomModel class
+      model = CustomModel()
+
+      # Train the model
+      model.train(num_epochs=10)
    
    
 
